@@ -3,7 +3,7 @@
 My interest lies in the IT field
 --------------------------------
 
-As a passionate individual with a strong interest in IT, I am eager to pursue a career in the field. I am dedicated to enhancing my skills and knowledge in IT through continuous learning and professional development.
+I am a detail-oriented and organized individual, passionate about SQL with a remarkable ability to adapt. Although I am at the beginning of my journey in the IT field, I have a strong desire to learn new things and grow professionally.
 
 * 🌍  I'm based in Bucuresti
 * ✉️  You can contact me at [parvu\_delia@yahoo.com](mailto:parvu_delia@yahoo.com)
